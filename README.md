@@ -4,6 +4,7 @@ Dette repositoriet er ment for å dele undervisningsmaterial for skolebesøket f
 
 ### Plan for Dagen
 
+--------------------------------
 9.00-9.30 | Velkommen til Simula
 9.30-10.00 | Felles Introduksjon til Jupyter og Python
 10.00-10.15 | Oppdeling i gruppe og kort pause
