@@ -17,8 +17,10 @@ Tidspunkt | Hva
 For workshoppen kommer vi til å jobbe med programmeringsspråket Python in et verktøy som heter Jupyter Notebooks. Du trenger ikke kunne noe om dette fra før av, men det er fint om du installerer det vi trenger for å jobbe på forhånd. Programpakken *Anaconda* inneholder alt vi trenger, og er gratis. 
 
 Velg versjonen for Python 3.6. Merk at det er forskjellige versjoner for Windows, Mac og Linux.
+
 [Link for nedlastning av Anaconda](https://www.anaconda.com/download/)
 
+Hvis du har problemer med å laste ned eller installere Anaconda ved hjelp av linken over kan du ta en titt på [installasjonsinstruksene](https://docs.anaconda.com/anaconda/install/), eller så kan vi hjelpe dere på dagen.
 
 
 
