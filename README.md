@@ -1,6 +1,6 @@
 # Miniworkshop ved Simula
 
-Dette repositoriet er ment for å dele undervisningsmaterial for skolebesøket fra Asker VGS til Simula. 
+Dette repositoriet er ment for å dele undervisningsmaterial for skolebesøket fra Asker VGS til Simula. Spesielt introduksjonsmaterialet vi bruker er basert på et Maskinlæringskurs laget av Marie Roald (https://github.com/MarieRoald/MLkursSimula). 
 
 ### Plan for Dagen
 
