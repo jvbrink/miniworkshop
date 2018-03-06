@@ -6,11 +6,13 @@ Dette repositoriet er ment for å dele undervisningsmaterial for skolebesøket f
 
 Tidspunkt | Hva
 ----------|-----
-9.00-9.30 | Velkommen til Simula
-9.30-10.00 | Felles Introduksjon til Jupyter og Python
-10.00-10.15 | Oppdeling i gruppe og kort pause
-10.15-11.45 | Gruppearbeid
-11.45-12 | Lunsj og avreise
+8.40-9.00 | Velkommen til Simula
+9.00-9.15 | Livet som forsker
+9.15-9.45 | Felles introduksjon til Jupyter og Python
+9.45-10.00 | Oppdeling i grupper og kort pause 
+10.00-11.20 | Gruppearbeid
+11.20 | Lunsj
+11.40 | Avreise
 
 ### Installasjonsinstrukser
 
